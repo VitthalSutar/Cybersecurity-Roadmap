@@ -223,4 +223,3 @@ CTFs simulate real-world hacking environments to solve challenges across multipl
 ---
 
 > ✅ Keep exploring tools, stay updated with trends, and never stop hacking ethically.  
-> 🎯 To explore detailed versions and resource links, visit [roadmap.sh](https://roadmap.sh)
